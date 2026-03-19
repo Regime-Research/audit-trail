@@ -1,0 +1,11 @@
+{
+  "date": "2026-03-18",
+  "directional_state": "RECOVERING",
+  "system_state": "CLEAR",
+  "signal_label": null,
+  "conviction_tier": null,
+  "stability_state": "Stable",
+  "distribution_state": "Balanced",
+  "detection_phase": "QUIET",
+  "computed_at": "2026-03-18T20:45:34.211916+00:00"
+}
